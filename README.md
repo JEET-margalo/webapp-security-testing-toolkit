@@ -17,6 +17,15 @@ A practical Python toolkit and methodology repo for **authorized web application
 
 This project demonstrates hands-on application security skills useful for roles in VAPT, Web/API Security Testing, and Application Security Engineering.
 
+## Recruiter summary
+
+This repository is designed as a practical portfolio project for web application security roles. It shows that I can:
+
+- Convert OWASP testing concepts into repeatable scripts and checklists
+- Review web/API security controls such as headers, CORS, and JWT claims
+- Document findings clearly with impact and remediation guidance
+- Follow responsible, authorization-based security testing practices
+
 ## Quick start
 
 ```bash
